@@ -1,5 +1,5 @@
-# About Me   
-![myimg](https://github.com/MordehayM/MordehayM/blob/main/sp.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
+# About Me    <img src="https://github.com/MordehayM/MordehayM/blob/main/sp.png"  height="80" />
+
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
