@@ -21,6 +21,7 @@ I'm passionate about signal processing combined with deep learning methods.
 [![Keras][Keras-shield]][Keras-url]
 [![TensorFlow][TensorFlow-shield]][TensorFlow-url]
 [![Pytorch][Pytorch-shield]][Pytorch-url]
+[![Opencv][Opencv-shield]][Opencv-url]
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/mordehay-moradi
@@ -30,4 +31,5 @@ I'm passionate about signal processing combined with deep learning methods.
 [TensorFlow-url]: https://www.tensorflow.org/
 [Pytorch-shield]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white
 [Pytorch-url]: https://pytorch.org/
-
+[Opencv-shield]: https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
+[Opencv-url]: https://opencv.org/
