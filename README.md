@@ -18,11 +18,16 @@ I'm passionate about signal processing combined with deep learning methods.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 [![Keras][Keras-shield]][Keras-url]
+[![TensorFlow][TensorFlow-shield]][TensorFlow-url]
+[![Pytorch][Pytorch-shield]][Pytorch-url]
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/mordehay-moradi
 [Keras-shield]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white
 [Keras-url]: https://keras.io/
+[TensorFlow-shield]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
+[Pytorch-shield]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white
+[Pytorch-url]: https://pytorch.org/
 
