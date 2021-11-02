@@ -1,3 +1,7 @@
+<a href="https://aimeos.org/">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fperson-speech-signal-flat-icon-vector-12732796&psig=AOvVaw36pzCqc35k3YoHJGy3tUFn&ust=1635966488440000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiChqGw-vMCFQAAAAAdAAAAABAG" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+</a>
+
 # About Me
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
