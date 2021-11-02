@@ -23,6 +23,6 @@ I'm passionate about signal processing combined with deep learning methods.
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/mordehay-moradi
-[linkedin-shield]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white
-[linkedin-url]: https://keras.io/
+[Keras-shield]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white
+[Keras-url]: https://keras.io/
 
