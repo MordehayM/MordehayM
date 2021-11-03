@@ -7,7 +7,7 @@
 
 
 
-I'm a student of M.Sc in Electrical Engineering at Bar Ilan University.
+I'm a M.Sc student in Data Information Processing at Bar Ilan University.
 I'm passionate about signal processing combined with deep learning methods.
 
 
