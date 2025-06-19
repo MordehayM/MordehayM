@@ -1,19 +1,34 @@
-# About Me 
-
-
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![](https://visitor-badge.glitch.me/badge?page_id=MordehayM.MordehayM)
+
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Mordehay
 
+I hold both a **Bachelor's and Master's degree in Electrical Engineering** with a specialization in **Data and Information Processing** from **Bar-Ilan University**.
+
+🎓 My M.Sc. thesis, conducted under the supervision of **Prof. Sharon Gannot**, focused on **speaker separation** using deep learning methods. This work led to a published paper and an open-source implementation:
+
+- 📝 *"Sep-TFAnet-VAD: Joint Voice Activity Detection and Speaker Separation in Reverberant and Noisy Conditions"*,  
+  [EURASIP Journal on Audio, Speech, and Music Processing (2025)](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-025-00404-7)  
+  > The increasing complexity of real-world environments, where multiple speakers may converse simultaneously, underscores the importance of effective speech separation.  
+  > This paper presents **Sep-TFAnet**, a single-microphone speaker separation network based on time-frequency attention, optimized for noisy and reverberant conditions.  
+  > A variant, **Sep-TFAnetVAD**, jointly integrates a voice activity detector (VAD).  
+  > The model uses STFT/iSTFT in place of learned encoders and supports low-latency block processing, making it suitable for **human-robot interaction**.  
+  > We also introduce [**ARImulti-mic**](https://ieee-dataport.org/documents/arimulti-mic-real-world-speech-recordings-humanoid-robot-ari), a real-world dataset recorded using a humanoid robot. [Project page](https://Sep-TFAnet.github.io)
+
+- 💻 [GitHub Repository: Sep-TFAnet-VAD](https://github.com/MordehayM/Sep-TFAnet-VAD.git)
+
+🧠 I also co-authored a publication addressing interpretability in deep learning for regression tasks:
+
+- 📝 *"A Visual Explanation Approach for Regression Neural Networks Applied to Nearfield Acoustic Holography"*,  
+  [IEEE (2023)](https://ieeexplore.ieee.org/document/10097272)  
+  > We propose a **Grad-CAM-inspired** approach to interpret neural network decisions for regression models.  
+  > The method is applied to **Kirchhoff-Helmholtz-based CNN (KHCNN)** for Nearfield Acoustic Holography using vibrating plates and violin top plates.  
+  > Results reveal the most informative regions used by the network for accurate predictions, and the method is validated using NCC and NMSE metrics.
+
+🔬 Currently, I'm working on the challenge of **speech inpainting**, developing advanced deep learning models to reconstruct missing parts in speech signals.
 
 
-I'm a M.Sc student in Data Information Processing at Bar Ilan University.
-I'm passionate about signal processing combined with deep learning methods.
 
-
-- 🔭 I’m currently working on finding a way to tackle the source separation problem i.e. the cocktail party problem with advanced deep learning methods 
-- ⚡ A wise saying: In response to someone who says you are zero, say there is no million without zero:)
 ## Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
